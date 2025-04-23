@@ -1,0 +1,12 @@
+
+#banneri {
+    background-color:#c49e71b7;
+}
+
+body {
+    background-image: url('tausta.png');
+    background-repeat: repeat; 
+    background-size: 25em; 
+    background-attachment: fixed; 
+    background-position: top left; 
+  }
